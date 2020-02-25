@@ -1,8 +1,8 @@
 {
-  "name": "simple-reactjs-app",
+  "name": "simpleapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
+  "homepage": "https://kishoredr.github.io/simpleapp/",
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.4.1",
