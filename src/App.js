@@ -23,11 +23,18 @@ class App extends Component {
                 )}/>
                  <Route exact path='/customerlist' component={Customers} />
           </Switch>
+          <details class="dropdown">
+              <summary>This has dropdown items</summary>
+              <ul>
+                  <li><a href="#hi">Hi</a></li>
+                  <li><a href="#universe">Universe</a></li>
+              </ul>
+          </details>
       </div>
     </Router>
     
     );
-  }git 
+  }
 }
 
 export default App;

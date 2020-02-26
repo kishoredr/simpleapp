@@ -5,6 +5,7 @@
   "homepage": "https://kishoredr.github.io/simpleapp/",
   "dependencies": {
     "axios": "^0.18.1",
+    "dropjs": "^12.1.0",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.12.0",
